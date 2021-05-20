@@ -1,1 +1,1 @@
-complete ruby corse
+complete ruby on rails course
